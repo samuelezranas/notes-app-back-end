@@ -1,1 +1,0 @@
-console.log('Halo kita adalah tim yang sangat baik');
