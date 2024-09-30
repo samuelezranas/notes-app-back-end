@@ -14,3 +14,5 @@ const addNoteHandler = (request, h) => {
  
   notes.push(newNote);
 };
+
+module.exports = addNoteHandler;
